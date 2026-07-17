@@ -26,7 +26,7 @@ pip install cryptography
 Run the script:
 
 ```bash
-python wallet_manager.py
+python Recovery.py
 ```
 
 On first run, you'll be asked to set a master password. **Remember it well** — without this password, your stored keys cannot be recovered!
